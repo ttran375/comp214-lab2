@@ -1,4 +1,20 @@
-*.sql linguist-language=plsql
+Case_Study_01.sql linguist-language=plsql
+Case_Study_02.sql linguist-language=plsql
+Case_Study_03.sql linguist-language=plsql
+Case_Study_04.sql linguist-language=plsql
+
+Objects_01.sql linguist-language=plsql
+Objects_02.sql linguist-language=plsql
+Objects_03.sql linguist-language=plsql
+Objects_04.sql linguist-language=plsql
+Objects_05.sql linguist-language=plsql
+Objects_06.sql linguist-language=plsql
+Objects_07.sql linguist-language=plsql
+Objects_08.sql linguist-language=plsql
+Objects_09.sql linguist-language=plsql
+Objects_10.sql linguist-language=plsql
+Objects_11.sql linguist-language=plsql
+
 Views_01.sql linguist-language=sql
 Views_02.sql linguist-language=sql
 Views_03.sql linguist-language=sql
