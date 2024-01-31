@@ -1,2 +1,11 @@
 *.sql linguist-language=plsql
-Views__*.sql linguist-language=sql
+Views_01.sql linguist-language=sql
+Views_02.sql linguist-language=sql
+Views_03.sql linguist-language=sql
+Views_04.sql linguist-language=sql
+Views_05.sql linguist-language=sql
+Views_06.sql linguist-language=sql
+Views_07.sql linguist-language=sql
+Views_08.sql linguist-language=sql
+Views_09.sql linguist-language=sql
+Views_10.sql linguist-language=sql
